@@ -9,4 +9,4 @@ dmp         - Data Management Plan
 deliverables  -  Prácticas de clase con partes entregables en moodle
 proyectos        - LogFrame de proyecto (estilo H2020)
 metadata         - Acceso y proceso de metadatos (XML, JSON, APIs)
-pid              - Resolución y uso de PIDs (doi, handle, APIs)
+doi              - Resolución y uso de PIDs (doi, handle, APIs)
