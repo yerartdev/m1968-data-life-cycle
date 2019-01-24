@@ -1,0 +1,11 @@
+Files upploaded to Dryad:
+
+File name:            Content:
+metadata.csv          Individual ID, date and place of sampling,
+		        stadium (egg, juvenile, adult), DNA concentration (eggs only),
+                        Geneclass2 assigned reference population (1=inner fjord; 2=North Sea)
+			percent score to that population, and number of loci used by Geneclass.
+25snp_reference.gen   Individual genotypes for the two reference populations, inner fjord ("inner")
+                        and North Sea ("northsea"), in Genepop format.
+25snpNEW.gen          Individual ID and genotypes for eggs, juveniles and adults
+		        from the two fjords, in Genepop format.

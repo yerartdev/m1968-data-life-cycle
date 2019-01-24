@@ -1,0 +1,410 @@
+ID             ,  Locality      , DD , MM , YY , Stasjonsnr , Stadium, DNAcons , Score , Percent , Loci
+GM-G-TOP-101   , Topdalsfjorden ,24,2,15,   , Adult,       ,1,99.979,24
+GM-G-TOP-102   , Topdalsfjorden ,24,2,15,   , Adult,       ,1,100,24
+GM-G-TOP-103   , Topdalsfjorden ,24,2,15,   , Adult,       ,1,100,24
+GM-G-TOP-104   , Topdalsfjorden ,24,2,15,   , Adult ,       ,2,99.989,24
+GM-G-TOP-105   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,99.812,22
+GM-G-TOP-106   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,22
+GM-G-TOP-107   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,22
+GM-G-TOP-108   , Topdalsfjorden ,24,2,15,   , Adult ,       ,2,94.895,24
+GM-G-TOP-109   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,99.774,22
+GM-G-TOP-110   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-111   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,23
+GM-G-TOP-112   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-113   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,22
+GM-G-TOP-114   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,23
+GM-G-TOP-115   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-116   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-117   , Topdalsfjorden ,20,2,15,   , Adult ,       ,1,97.934,24
+GM-G-TOP-118   , Topdalsfjorden ,20,2,15,   , Adult ,       ,1,99.984,21
+GM-G-TOP-119   , Topdalsfjorden ,20,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-120   , Topdalsfjorden ,20,2,15,   , Adult ,       ,1,99.991,24
+GM-G-TOP-121   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,99.997,24
+GM-G-TOP-122   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,23
+GM-G-TOP-123   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-124   , Topdalsfjorden ,24,2,15,   , Adult ,       ,2,99.999,24
+GM-G-TOP-125   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-126   , Topdalsfjorden ,19,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-127   , Topdalsfjorden ,19,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-128   , Topdalsfjorden ,24,2,15,   , Adult ,       ,2,99.934,23
+GM-G-TOP-129   , Topdalsfjorden ,19,2,15,   , Adult ,       ,1,100,23
+GM-G-TOP-130   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,100,21
+GM-G-TOP-131   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-132   , Topdalsfjorden ,19,2,15,   , Adult ,       ,2,99.585,24
+GM-G-TOP-133   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,99.998,24
+GM-G-TOP-134   , Topdalsfjorden ,25,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-135   , Topdalsfjorden ,25,2,15,   , Adult ,       ,1,99.996,21
+GM-G-TOP-136   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,98.292,24
+GM-G-TOP-137   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,100,24
+GM-G-TOP-138   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,98.692,21
+GM-G-TOP-139   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,99.999,24
+GM-G-TOP-140   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,100,22
+GM-G-TOP-141   , Topdalsfjorden ,19,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-142   , Topdalsfjorden ,19,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-143   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,99.813,24
+GM-G-TOP-144   , Topdalsfjorden ,    ,    ,    ,   , Adult ,       ,1,99.855,24
+GM-G-TOP-145   , Topdalsfjorden ,25,2,15,   , Adult ,       ,1,100,23
+GM-G-TOP-146   , Topdalsfjorden ,24,2,15,   , Adult ,       ,1,100,24
+GM-G-TOP-147   , Topdalsfjorden ,25,2,15,   , Adult ,       ,1,100,22
+GM-G-TOP-148   , Topdalsfjorden ,19,2,15,   , Adult ,       ,1,100,21
+GM-G-TOP-149   , Topdalsfjorden ,19,2,15,   , Adult ,       ,1,100,21
+GM-G-TOP-150   , Topdalsfjorden ,25,2,15,   , Adult ,       ,1,100,23
+GM-G-TOP-151   , Topdalsfjorden ,25,2,15,   , Adult ,       ,1,99.962,23
+GM-G-TOP-152   , Topdalsfjorden ,25,2,15,   , Adult ,       ,1,99.999,19
+GM-TOP-E3-64   , Topdalsfjorden ,5,3,15,1, Egg      ,19.5,1,100,25
+GM-TOP-E3-65   , Topdalsfjorden ,5,3,15,1, Egg      ,46.5,1,99.942,24
+GM-TOP-E3-66   , Topdalsfjorden ,5,3,15,1, Egg      ,40,1,91.24,25
+GM-TOP-E3-67   , Topdalsfjorden ,5,3,15,1, Egg      ,47,1,100,25
+GM-TOP-E3-68   , Topdalsfjorden ,5,3,15,1, Egg      ,70.5,1,100,25
+GM-TOP-E3-69   , Topdalsfjorden ,5,3,15,1, Egg      ,38.5,1,100,23
+GM-TOP-E3-70   , Topdalsfjorden ,5,3,15,1, Egg      ,56.5,1,99.995,25
+GM-TOP-E3-71   , Topdalsfjorden ,5,3,15,1, Egg      ,36,1,100,25
+GM-TOP-E3-72   , Topdalsfjorden ,5,3,15,1, Egg      ,37.5,1,100,25
+GM-TOP-E4-01   , Topdalsfjorden ,5,3,15,1, Egg      ,0,1,100,25
+GM-TOP-E4-02   , Topdalsfjorden ,5,3,15,1, Egg      ,39.5,1,99.996,25
+GM-TOP-E4-03   , Topdalsfjorden ,5,3,15,1, Egg      ,27,1,100,25
+GM-TOP-E4-04   , Topdalsfjorden ,5,3,15,1, Egg      ,25,1,100,25
+GM-TOP-E4-05   , Topdalsfjorden ,5,3,15,1, Egg      ,27.5,1,99.918,23
+GM-TOP-E4-06   , Topdalsfjorden ,5,3,15,1, Egg      ,43,1,99.995,25
+GM-TOP-E4-07   , Topdalsfjorden ,5,3,15,1, Egg      ,39,1,100,25
+GM-TOP-E4-08   , Topdalsfjorden ,5,3,15,1, Egg      ,24.5,1,100,25
+GM-TOP-E4-09   , Topdalsfjorden ,5,3,15,1, Egg      ,50.5,2,97.746,25
+GM-TOP-E4-10   , Topdalsfjorden ,5,3,15,1, Egg      ,34,1,100,25
+GM-TOP-E4-11   , Topdalsfjorden ,5,3,15,1, Egg      ,50,1,100,25
+GM-TOP-E4-12   , Topdalsfjorden ,5,3,15,1, Egg      ,28,1,100,25
+GM-TOP-E4-13   , Topdalsfjorden ,5,3,15,1, Egg      ,42.5,1,99.999,25
+GM-TOP-E4-14   , Topdalsfjorden ,5,3,15,1, Egg      ,72.5,1,99.999,25
+GM-TOP-E4-15   , Topdalsfjorden ,5,3,15,1, Egg      ,46,1,99.999,25
+GM-TOP-E4-16   , Topdalsfjorden ,5,3,15,1, Egg      ,39,1,100,25
+GM-TOP-E4-17   , Topdalsfjorden ,5,3,15,1, Egg      ,34,2,98.173,17
+GM-TOP-E4-18   , Topdalsfjorden ,5,3,15,1, Egg      ,73,2,99.26,19
+GM-TOP-E4-19   , Topdalsfjorden ,5,3,15,1, Egg      ,35,1,99.99,25
+GM-TOP-E4-20   , Topdalsfjorden ,5,3,15,1, Egg      ,35,1,100,25
+GM-TOP-E4-21   , Topdalsfjorden ,5,3,15,2, Egg      ,33,1,99.966,19
+GM-TOP-E4-22   , Topdalsfjorden ,5,3,15,1, Egg      ,39.5,1,99.989,25
+GM-TOP-E4-23   , Topdalsfjorden ,5,3,15,1, Egg      ,52,1,99.993,25
+GM-TOP-E4-24   , Topdalsfjorden ,5,3,15,1, Egg      ,52,1,99.999,25
+GM-TOP-E4-25   , Topdalsfjorden ,5,3,15,1, Egg      ,29.5,1,99.998,25
+GM-TOP-E4-26   , Topdalsfjorden ,5,3,15,1, Egg      ,35.5,1,99.94,21
+GM-TOP-E4-27   , Topdalsfjorden ,5,3,15,1, Egg      ,       ,1,99.95,25
+GM-TOP-E4-28   , Topdalsfjorden ,5,3,15,1, Egg      ,60.5,1,99.996,25
+GM-TOP-E4-29   , Topdalsfjorden ,5,3,15,1, Egg      ,29,1,99.975,20
+GM-TOP-E4-30   , Topdalsfjorden ,5,3,15,1, Egg      ,39.5,1,100,25
+GM-TOP-E4-31   , Topdalsfjorden ,5,3,15,1, Egg      ,47.5,1,100,25
+GM-TOP-E4-32   , Topdalsfjorden ,5,3,15,1, Egg      ,42.5,1,100,25
+GM-TOP-E4-33   , Topdalsfjorden ,5,3,15,1, Egg      ,39,1,99.957,19
+GM-TOP-E4-34   , Topdalsfjorden ,5,3,15,1, Egg      ,32.5,1,99.998,25
+GM-TOP-E4-35   , Topdalsfjorden ,5,3,15,1, Egg      ,49.5,1,100,25
+GM-TOP-E4-36   , Topdalsfjorden ,5,3,15,1, Egg      ,36,2,60.22,18
+GM-TOP-E4-38   , Topdalsfjorden ,5,3,15,1, Egg      ,25,1,100,25
+GM-TOP-E4-39   , Topdalsfjorden ,5,3,15,1, Egg      ,       ,1,100,25
+GM-TOP-E4-40   , Topdalsfjorden ,5,3,15,1, Egg      ,37,1,100,25
+GM-TOP-E4-41   , Topdalsfjorden ,5,3,15,1, Egg      ,37,1,99.613,25
+GM-TOP-E4-42   , Topdalsfjorden ,5,3,15,1, Egg      ,       ,1,99.996,20
+GM-TOP-E4-43   , Topdalsfjorden ,5,3,15,1, Egg      ,62,1,100,25
+GM-TOP-E4-44   , Topdalsfjorden ,5,3,15,1, Egg      ,37.5,1,99.995,25
+GM-TOP-E4-45   , Topdalsfjorden ,5,3,15,1, Egg      ,79.5,1,99.946,25
+GM-TOP-E4-46   , Topdalsfjorden ,5,3,15,1, Egg      ,43,1,99.936,25
+GM-TOP-E4-47   , Topdalsfjorden ,5,3,15,1, Egg      ,54,1,100,25
+GM-TOP-E4-48   , Topdalsfjorden ,5,3,15,1, Egg      ,       ,1,100,25
+GM-TOP-E4-49   , Topdalsfjorden ,5,3,15,1, Egg      ,24,1,99.956,18
+GM-TOP-E4-50   , Topdalsfjorden ,5,3,15,2, Egg      ,38.5,1,100,25
+GM-TOP-E4-52   , Topdalsfjorden ,5,3,15,2, Egg      ,35,1,100,25
+GM-TOP-E4-53   , Topdalsfjorden ,5,3,15,2, Egg      ,36.5,1,100,25
+GM-TOP-E4-54   , Topdalsfjorden ,5,3,15,2, Egg      ,28.5,1,100,25
+GM-TOP-E4-55   , Topdalsfjorden ,5,3,15,2, Egg      ,65.5,1,100,25
+GM-TOP-E4-56   , Topdalsfjorden ,5,3,15,2, Egg      ,68,1,100,25
+GM-TOP-E4-57   , Topdalsfjorden ,5,3,15,2, Egg      ,       ,1,100,25
+GM-TOP-E4-58   , Topdalsfjorden ,5,3,15,2, Egg      ,45.5,1,100,25
+GM-TOP-E4-59   , Topdalsfjorden ,5,3,15,2, Egg      ,32.5,1,100,25
+GM-TOP-E4-60   , Topdalsfjorden ,5,3,15,2, Egg      ,       ,1,100,25
+GM-TOP-E4-61   , Topdalsfjorden ,5,3,15,2, Egg      ,12.8,1,100,25
+GM-TOP-E4-62   , Topdalsfjorden ,5,3,15,2, Egg      ,37,1,100,25
+GM-TOP-E4-63   , Topdalsfjorden ,5,3,15,2, Egg      ,60,1,68.498,25
+GM-TOP-E4-64   , Topdalsfjorden ,5,3,15,2, Egg      ,16.6,2,94.675,21
+GM-TOP-E4-65   , Topdalsfjorden ,5,3,15,2, Egg      ,62,2,99.533,19
+GM-TOP-E4-66   , Topdalsfjorden ,5,3,15,2, Egg      ,17,1,100,25
+GM-TOP-E4-67   , Topdalsfjorden ,5,3,15,2, Egg      ,71,1,100,25
+GM-TOP-E4-68   , Topdalsfjorden ,5,3,15,2, Egg      ,28,1,100,19
+GM-TOP-E4-69   , Topdalsfjorden ,5,3,15,2, Egg      ,68,1,100,25
+GM-TOP-E4-70   , Topdalsfjorden ,5,3,15,2, Egg      ,       ,1,100,25
+GM-TOP-E4-71   , Topdalsfjorden ,5,3,15,2, Egg      ,59.5,1,100,25
+GM-TOP-E4-72   , Topdalsfjorden ,5,3,15,2, Egg      ,48,1,99.909,25
+GM-TOP-E5-01   , Topdalsfjorden ,5,3,15,3, Egg      ,18.5,1,99.816,16
+GM-TOP-E5-02   , Topdalsfjorden ,5,3,15,3, Egg      ,59.5,1,100,25
+GM-TOP-E5-03   , Topdalsfjorden ,5,3,15,3, Egg      ,79.5,1,99.999,25
+GM-TOP-E5-05   , Topdalsfjorden ,5,3,15,3, Egg      ,       ,1,100,25
+GM-TOP-E5-06   , Topdalsfjorden ,5,3,15,3, Egg      ,34,1,100,17
+GM-TOP-E5-07   , Topdalsfjorden ,5,3,15,3, Egg      ,35.5,1,100,25
+GM-TOP-E5-08   , Topdalsfjorden ,5,3,15,3, Egg      ,39.5,1,100,25
+GM-TOP-E5-09   , Topdalsfjorden ,5,3,15,3, Egg      ,41,1,100,25
+GM-TOP-E5-10   , Topdalsfjorden ,5,3,15,3, Egg      ,25,1,99.946,22
+GM-TOP-E5-11   , Topdalsfjorden ,5,3,15,3, Egg      ,58,1,84.816,25
+GM-TOP-E5-12   , Topdalsfjorden ,5,3,15,3, Egg      ,57,1,100,25
+GM-TOP-E5-13   , Topdalsfjorden ,5,3,15,3, Egg      ,28.5,1,100,25
+GM-TOP-E5-14   , Topdalsfjorden ,5,3,15,3, Egg      ,22.5,1,99.921,21
+GM-TOP-E5-15   , Topdalsfjorden ,5,3,15,3, Egg      ,15.2,1,100,17
+GM-TOP-E5-16   , Topdalsfjorden ,5,3,15,4, Egg      ,37.5,1,100,25
+GM-TOP-E5-17   , Topdalsfjorden ,5,3,15,4, Egg      ,37.5,1,97.29,25
+GM-TOP-E5-18   , Topdalsfjorden ,5,3,15,4, Egg      ,39.5,1,99.985,24
+GM-TOP-E5-19   , Topdalsfjorden ,5,3,15,4, Egg      ,26.5,1,99.994,25
+GM-TOP-E5-20   , Topdalsfjorden ,5,3,15,4, Egg      ,5.7,1,99.942,24
+GM-TOP-E5-21   , Topdalsfjorden ,5,3,15,4, Egg      ,33,1,100,25
+GM-TOP-E5-22   , Topdalsfjorden ,5,3,15,4, Egg      ,69,2,99.999,25
+GM-TOP-E5-23   , Topdalsfjorden ,5,3,15,4, Egg      ,37.5,1,99.999,25
+GM-TOP-E5-25   , Topdalsfjorden ,5,3,15,4, Egg      ,28.5,1,100,25
+GM-TOP-E5-26   , Topdalsfjorden ,5,3,15,4, Egg      ,41,1,99.941,17
+GM-TOP-E5-27   , Topdalsfjorden ,5,3,15,4, Egg      ,33,1,99.83,25
+GM-TOP-E5-28   , Topdalsfjorden ,5,3,15,4, Egg      ,72,1,100,25
+GM-TOP-E5-29   , Topdalsfjorden ,5,3,15,4, Egg      ,33,1,100,22
+GM-TOP-E5-30   , Topdalsfjorden ,5,3,15,4, Egg      ,22.5,1,99.987,21
+GM-TOP-E5-31   , Topdalsfjorden ,5,3,15,4, Egg      ,37.5,1,99.998,18
+GM-TOP-E5-33   , Topdalsfjorden ,5,3,15,5, Egg      ,61,1,99.997,25
+GM-TOP-E5-34   , Topdalsfjorden ,5,3,15,5, Egg      ,25.5,1,100,25
+GM-TOP-E5-36   , Topdalsfjorden ,5,3,15,5, Egg      ,25,1,100,25
+GM-TOP-E5-37   , Topdalsfjorden ,5,3,15,6, Egg      ,15.2,2,86.003,17
+GM-TOP-E5-38   , Topdalsfjorden ,5,3,15,6, Egg      ,36.5,1,97.062,25
+GM-TOP-E5-39   , Topdalsfjorden ,5,3,15,6, Egg      ,51,1,100,25
+GM-TOP-E5-40   , Topdalsfjorden ,5,3,15,6, Egg      ,42.5,2,92.342,19
+GM-TOP-E5-41   , Topdalsfjorden ,5,3,15,6, Egg      ,26,1,99.999,18
+GM-TOP-E5-42   , Topdalsfjorden ,5,3,15,6, Egg      ,47.5,1,99.999,25
+GM-TOP-E5-43   , Topdalsfjorden ,5,3,15,6, Egg      ,32,1,99.241,25
+GM-TOP-E5-44   , Topdalsfjorden ,5,3,15,6, Egg      ,83,1,99.997,25
+GM-TOP-E5-45   , Topdalsfjorden ,5,3,15,6, Egg      ,42.5,1,99.931,19
+GM-TOP-JJUN-02 , Topdalsfjorden ,15,6,15,1, Juvenile ,       ,1,100,24
+GM-TOP-JJUN-03 , Topdalsfjorden ,15,6,15,1, Juvenile ,       ,1,100,23
+GM-TOP-JJUN-04 , Topdalsfjorden ,15,6,15,2, Juvenile ,       ,1,99.986,24
+GM-TOP-JJUN-05 , Topdalsfjorden ,15,6,15,2, Juvenile ,       ,1,100,24
+GM-TOP-JJUN-06 , Topdalsfjorden ,15,6,15,3, Juvenile ,       ,1,100,24
+GM-TOP-JJUN-07 , Topdalsfjorden ,15,6,15,3, Juvenile ,       ,2,69.648,16
+GM-TOP-JJUN-08 , Topdalsfjorden ,15,6,15,4, Juvenile ,       ,1,99.953,24
+GM-TOP-JJUN-09 , Topdalsfjorden ,15,6,15,4, Juvenile ,       ,2,99.916,24
+GM-TOP-JJUN-10 , Topdalsfjorden ,15,6,15,4, Juvenile ,       ,1,100,23
+GM-TOP-JOKT-01 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,99.915,18
+GM-TOP-JOKT-02 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,99.997,21
+GM-TOP-JOKT-03 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,100,23
+GM-TOP-JOKT-04 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,99.999,24
+GM-TOP-JOKT-05 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,99.993,22
+GM-TOP-JOKT-06 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,100,24
+GM-TOP-JOKT-07 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,100,24
+GM-TOP-JOKT-08 , Topdalsfjorden ,15,9,15,3, Juvenile ,       ,1,99.999,21
+GM-TOP-JOKT-09 , Topdalsfjorden ,15,9,15,6, Juvenile ,       ,1,99.999,24
+GM-TOP-JOKT-10 , Topdalsfjorden ,15,9,15,6, Juvenile ,       ,2,99.723,16
+GM-TVE-E1-03   , Tvedestrand    ,20,2,15,1, Egg      ,21.5,1,100,20
+GM-TVE-E1-07   , Tvedestrand    ,20,2,15,3, Egg      ,17.5,1,89.435,24
+GM-TVE-E1-08   , Tvedestrand    ,27,2,15,1, Egg      ,74.5,1,99.973,24
+GM-TVE-E1-09   , Tvedestrand    ,27,2,15,1, Egg      ,115.5,1,100,23
+GM-TVE-E1-10   , Tvedestrand    ,27,2,15,1, Egg      ,73.5,1,100,24
+GM-TVE-E1-12   , Tvedestrand    ,27,2,15,1, Egg      ,13.2,1,100,21
+GM-TVE-E1-13   , Tvedestrand    ,27,2,15,1, Egg      ,45.5,1,99.992,25
+GM-TVE-E1-14   , Tvedestrand    ,27,2,15,1, Egg      ,36.5,1,100,22
+GM-TVE-E1-16   , Tvedestrand    ,27,2,15,1, Egg      ,8.9,1,100,24
+GM-TVE-E1-17   , Tvedestrand    ,27,2,15,1, Egg      ,24,1,100,25
+GM-TVE-E1-21   , Tvedestrand    ,27,2,15,2, Egg      ,55,1,99.99,25
+GM-TVE-E1-22   , Tvedestrand    ,27,2,15,2, Egg      ,26.5,1,100,25
+GM-TVE-E1-23   , Tvedestrand    ,27,2,15,2, Egg      ,       ,1,100,25
+GM-TVE-E1-24   , Tvedestrand    ,27,2,15,2, Egg      ,61.5,1,99.995,24
+GM-TVE-E1-26   , Tvedestrand    ,27,2,15,2, Egg      ,98,1,100,22
+GM-TVE-E1-27   , Tvedestrand    ,27,2,15,2, Egg      ,25,1,99.999,24
+GM-TVE-E1-28   , Tvedestrand    ,27,2,15,2, Egg      ,15.3,1,99.999,22
+GM-TVE-E1-29   , Tvedestrand    ,27,2,15,2, Egg      ,23,1,100,23
+GM-TVE-E1-30   , Tvedestrand    ,27,2,15,2, Egg      ,31,1,99.991,25
+GM-TVE-E1-32   , Tvedestrand    ,27,2,15,2, Egg      ,107,1,100,24
+GM-TVE-E1-34   , Tvedestrand    ,27,2,15,3, Egg      ,55,1,100,20
+GM-TVE-E1-35   , Tvedestrand    ,27,2,15,3, Egg      ,12.9,1,99.999,25
+GM-TVE-E1-37   , Tvedestrand    ,27,2,15,3, Egg      ,17.5,1,100,24
+GM-TVE-E1-38   , Tvedestrand    ,27,2,15,3, Egg      ,14.8,1,100,25
+GM-TVE-E1-41   , Tvedestrand    ,27,2,15,3, Egg      ,15,1,100,24
+GM-TVE-E1-42   , Tvedestrand    ,27,2,15,3, Egg      ,122,1,99.982,24
+GM-TVE-E1-43   , Tvedestrand    ,27,2,15,3, Egg      ,138,1,100,24
+GM-TVE-E1-44   , Tvedestrand    ,27,2,15,3, Egg      ,79,1,77.293,20
+GM-TVE-E1-45   , Tvedestrand    ,27,2,15,3, Egg      ,34,1,100,24
+GM-TVE-E1-46   , Tvedestrand    ,27,2,15,3, Egg      ,16.5,1,100,24
+GM-TVE-E1-47   , Tvedestrand    ,27,2,15,3, Egg      ,17,1,100,24
+GM-TVE-E1-48   , Tvedestrand    ,27,2,15,3, Egg      ,13.8,1,99.834,24
+GM-TVE-E1-49   , Tvedestrand    ,27,2,15,3, Egg      ,130,1,100,23
+GM-TVE-E1-51   , Tvedestrand    ,27,2,15,3, Egg      ,42.5,1,99.983,23
+GM-TVE-E1-52   , Tvedestrand    ,27,2,15,3, Egg      ,50,1,99.999,20
+GM-TVE-E1-53   , Tvedestrand    ,27,2,15,3, Egg      ,52.5,1,99.996,16
+GM-TVE-E1-59   , Tvedestrand    ,27,2,15,4, Egg      ,52.5,1,99.881,21
+GM-TVE-E1-60   , Tvedestrand    ,27,2,15,4, Egg      ,27,1,100,23
+GM-TVE-E1-61   , Tvedestrand    ,27,2,15,4, Egg      ,93,1,99.991,23
+GM-TVE-E1-62   , Tvedestrand    ,27,2,15,4, Egg      ,79.5,1,100,23
+GM-TVE-E1-64   , Tvedestrand    ,27,2,15,4, Egg      ,99,1,98.408,16
+GM-TVE-E1-65   , Tvedestrand    ,27,2,15,4, Egg      ,67,1,100,21
+GM-TVE-E1-66   , Tvedestrand    ,27,2,15,4, Egg      ,129,1,100,23
+GM-TVE-E1-67   , Tvedestrand    ,27,2,15,4, Egg      ,66.5,1,100,22
+GM-TVE-E1-68   , Tvedestrand    ,27,2,15,4, Egg      ,26,1,99.808,22
+GM-TVE-E1-70   , Tvedestrand    ,27,2,15,4, Egg      ,13.5,1,99.442,22
+GM-TVE-E2-02   , Tvedestrand    ,27,2,15,5, Egg      ,35.5,1,100,24
+GM-TVE-E2-11   , Tvedestrand    ,27,2,15,6, Egg      ,37,1,100,24
+GM-TVE-E2-13   , Tvedestrand    ,6,3,15,1, Egg      ,       ,2,99.877,16
+GM-TVE-E2-14   , Tvedestrand    ,6,3,15,1, Egg      ,110.5,2,98.413,23
+GM-TVE-E2-15   , Tvedestrand    ,6,3,15,1, Egg      ,       ,1,99.97,25
+GM-TVE-E2-17   , Tvedestrand    ,6,3,15,1, Egg      ,       ,1,100,24
+GM-TVE-E2-18   , Tvedestrand    ,6,3,15,1, Egg      ,       ,1,100,23
+GM-TVE-E2-19   , Tvedestrand    ,6,3,15,1, Egg      ,       ,1,100,25
+GM-TVE-E2-20   , Tvedestrand    ,6,3,15,1, Egg      ,69,2,99.555,23
+GM-TVE-E2-21   , Tvedestrand    ,6,3,15,1, Egg      ,56.5,2,98.631,18
+GM-TVE-E2-25   , Tvedestrand    ,6,3,15,1, Egg      ,       ,2,99.45,24
+GM-TVE-E2-26   , Tvedestrand    ,6,3,15,2, Egg      ,       ,1,99.956,23
+GM-TVE-E2-28   , Tvedestrand    ,6,3,15,2, Egg      ,       ,1,91.745,17
+GM-TVE-E2-29   , Tvedestrand    ,6,3,15,2, Egg      ,151,2,97.798,24
+GM-TVE-E2-30   , Tvedestrand    ,6,3,15,2, Egg      ,       ,1,99.285,16
+GM-TVE-E2-31   , Tvedestrand    ,6,3,15,2, Egg      ,       ,1,100,24
+GM-TVE-E2-32   , Tvedestrand    ,6,3,15,2, Egg      ,       ,1,100,23
+GM-TVE-E2-33   , Tvedestrand    ,6,3,15,2, Egg      ,53.5,2,99.731,24
+GM-TVE-E2-34   , Tvedestrand    ,6,3,15,2, Egg      ,       ,1,84.482,16
+GM-TVE-E2-35   , Tvedestrand    ,6,3,15,2, Egg      ,117,1,100,23
+GM-TVE-E2-36   , Tvedestrand    ,6,3,15,3, Egg      ,       ,1,100,25
+GM-TVE-E2-37   , Tvedestrand    ,6,3,15,3, Egg      ,       ,1,100,20
+GM-TVE-E2-38   , Tvedestrand    ,6,3,15,3, Egg      ,86,1,99.629,25
+GM-TVE-E2-39   , Tvedestrand    ,6,3,15,3, Egg      ,       ,1,100,24
+GM-TVE-E2-40   , Tvedestrand    ,6,3,15,3, Egg      ,       ,1,100,25
+GM-TVE-E2-42   , Tvedestrand    ,6,3,15,3, Egg      ,       ,1,99.963,18
+GM-TVE-E2-44   , Tvedestrand    ,6,3,15,3, Egg      ,72.5,1,99.927,23
+GM-TVE-E2-48   , Tvedestrand    ,6,3,15,3, Egg      ,24,1,100,23
+GM-TVE-E2-49   , Tvedestrand    ,6,3,15,4, Egg      ,       ,2,99.903,25
+GM-TVE-E2-50   , Tvedestrand    ,6,3,15,4, Egg      ,14.9,1,100,16
+GM-TVE-E2-51   , Tvedestrand    ,6,3,15,4, Egg      ,       ,2,95.856,25
+GM-TVE-E2-52   , Tvedestrand    ,6,3,15,4, Egg      ,       ,1,99.948,24
+GM-TVE-E2-53   , Tvedestrand    ,6,3,15,4, Egg      ,22,1,100,25
+GM-TVE-E2-55   , Tvedestrand    ,6,3,15,4, Egg      ,22,1,100,23
+GM-TVE-E2-56   , Tvedestrand    ,6,3,15,4, Egg      ,       ,1,94.185,19
+GM-TVE-E2-58   , Tvedestrand    ,6,3,15,4, Egg      ,77,1,100,25
+GM-TVE-E2-59   , Tvedestrand    ,6,3,15,4, Egg      ,       ,1,99.913,18
+GM-TVE-E2-60   , Tvedestrand    ,6,3,15,4, Egg      ,31,2,100,24
+GM-TVE-E2-61   , Tvedestrand    ,6,3,15,5, Egg      ,43,1,100,24
+GM-TVE-E2-63   , Tvedestrand    ,6,3,15,5, Egg      ,       ,2,60.378,16
+GM-TVE-E2-65   , Tvedestrand    ,6,3,15,5, Egg      ,33.5,1,100,25
+GM-TVE-E2-66   , Tvedestrand    ,6,3,15,5, Egg      ,12.8,1,99.993,21
+GM-TVE-E2-67   , Tvedestrand    ,6,3,15,5, Egg      ,31,1,99.999,25
+GM-TVE-E2-68   , Tvedestrand    ,6,3,15,5, Egg      ,29,1,100,24
+GM-TVE-E2-69   , Tvedestrand    ,6,3,15,6, Egg      ,48.5,1,100,23
+GM-TVE-E2-72   , Tvedestrand    ,6,3,15,6, Egg      ,17,1,88.048,25
+GM-TVE-E3-01   , Tvedestrand    ,6,3,15,1, Egg      ,0,1,99.973,23
+GM-TVE-E3-02   , Tvedestrand    ,13,3,15,1, Egg      ,20.5,1,100,24
+GM-TVE-E3-04   , Tvedestrand    ,13,3,15,1, Egg      ,       ,1,99.994,23
+GM-TVE-E3-06   , Tvedestrand    ,13,3,15,1, Egg      ,5.2,1,100,24
+GM-TVE-E3-08   , Tvedestrand    ,13,3,15,2, Egg      ,31.5,1,99.586,23
+GM-TVE-E3-09   , Tvedestrand    ,13,3,15,2, Egg      ,       ,1,99.999,23
+GM-TVE-E3-10   , Tvedestrand    ,13,3,15,2, Egg      ,99.5,1,99.947,24
+GM-TVE-E3-11   , Tvedestrand    ,13,3,15,2, Egg      ,117.5,2,99.953,25
+GM-TVE-E3-12   , Tvedestrand    ,13,3,15,2, Egg      ,28,1,99.943,25
+GM-TVE-E3-13   , Tvedestrand    ,13,3,15,2, Egg      ,25.5,1,99.992,25
+GM-TVE-E3-14   , Tvedestrand    ,13,3,15,2, Egg      ,19,1,100,23
+GM-TVE-E3-16   , Tvedestrand    ,13,3,15,2, Egg      ,108.5,1,100,23
+GM-TVE-E3-18   , Tvedestrand    ,13,3,15,3, Egg      ,-0.2,1,100,25
+GM-TVE-E3-19   , Tvedestrand    ,13,3,15,3, Egg      ,       ,1,100,25
+GM-TVE-E3-20   , Tvedestrand    ,13,3,15,3, Egg      ,       ,1,99.976,25
+GM-TVE-E3-21   , Tvedestrand    ,13,3,15,3, Egg      ,22,2,100,20
+GM-TVE-E3-22   , Tvedestrand    ,13,3,15,3, Egg      ,32.5,2,76.321,22
+GM-TVE-E3-23   , Tvedestrand    ,13,3,15,3, Egg      ,17.5,1,99.998,23
+GM-TVE-E3-26   , Tvedestrand    ,13,3,15,4, Egg      ,36,1,100,24
+GM-TVE-E3-27   , Tvedestrand    ,13,3,15,4, Egg      ,       ,1,99.99,25
+GM-TVE-E3-28   , Tvedestrand    ,13,3,15,4, Egg      ,       ,1,100,24
+GM-TVE-E3-29   , Tvedestrand    ,13,3,15,4, Egg      ,       ,1,100,24
+GM-TVE-E3-30   , Tvedestrand    ,13,3,15,4, Egg      ,       ,1,100,25
+GM-TVE-E3-32   , Tvedestrand    ,13,3,15,4, Egg      ,       ,1,100,24
+GM-TVE-E3-33   , Tvedestrand    ,13,3,15,4, Egg      ,44,1,99.998,24
+GM-TVE-E3-34   , Tvedestrand    ,13,3,15,5, Egg      ,27,1,92.103,17
+GM-TVE-E3-35   , Tvedestrand    ,24,3,15,1, Egg      ,50.5,1,100,24
+GM-TVE-E3-36   , Tvedestrand    ,24,3,15,1, Egg      ,21.5,1,99.999,18
+GM-TVE-E3-37   , Tvedestrand    ,24,3,15,1, Egg      ,26,1,100,20
+GM-TVE-E3-38   , Tvedestrand    ,24,3,15,1, Egg      ,16,1,100,18
+GM-TVE-E3-40   , Tvedestrand    ,24,3,15,1, Egg      ,29.5,1,99.988,21
+GM-TVE-E3-41   , Tvedestrand    ,24,3,15,1, Egg      ,28,1,99.997,19
+GM-TVE-E3-42   , Tvedestrand    ,24,3,15,1, Egg      ,25.5,1,99.992,16
+GM-TVE-E3-43   , Tvedestrand    ,24,3,15,1, Egg      ,       ,1,99.999,24
+GM-TVE-E3-44   , Tvedestrand    ,24,3,15,1, Egg      ,13.6,1,100,25
+GM-TVE-E3-45   , Tvedestrand    ,24,3,15,1, Egg      ,       ,1,99.952,18
+GM-TVE-E3-46   , Tvedestrand    ,24,3,15,1, Egg      ,       ,1,99.889,16
+GM-TVE-E3-48   , Tvedestrand    ,24,3,15,1, Egg      ,15.1,1,72.075,16
+GM-TVE-E3-49   , Tvedestrand    ,24,3,15,2, Egg      ,       ,1,100,25
+GM-TVE-E3-50   , Tvedestrand    ,24,3,15,2, Egg      ,       ,1,99.999,25
+GM-TVE-E3-51   , Tvedestrand    ,24,3,15,2, Egg      ,19.5,1,100,24
+GM-TVE-E3-52   , Tvedestrand    ,24,3,15,2, Egg      ,       ,2,93.033,19
+GM-TVE-E3-53   , Tvedestrand    ,24,3,15,2, Egg      ,23,1,100,25
+GM-TVE-E3-54   , Tvedestrand    ,24,3,15,2, Egg      ,26.5,1,99.996,24
+GM-TVE-E3-55   , Tvedestrand    ,24,3,15,2, Egg      ,21,1,100,25
+GM-TVE-E3-56   , Tvedestrand    ,24,3,15,2, Egg      ,       ,1,100,25
+GM-TVE-E3-57   , Tvedestrand    ,24,3,15,2, Egg      ,12.4,1,100,25
+GM-TVE-E3-60   , Tvedestrand    ,24,3,15,3, Egg      ,46.5,1,100,25
+GM-TVE-E3-61   , Tvedestrand    ,24,3,15,4, Egg      ,98,1,100,25
+GM-TVE-E3-62   , Tvedestrand    ,24,3,15,4, Egg      ,62,1,100,25
+GM-TVE-E3-63   , Tvedestrand    ,24,3,15,4, Egg      ,40,1,99.994,17
+GM-TVE-JJUN-01 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-02 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,2,99.654,24
+GM-TVE-JJUN-03 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-04 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,2,87.339,24
+GM-TVE-JJUN-05 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-06 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,2,99.995,24
+GM-TVE-JJUN-07 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,2,99.996,24
+GM-TVE-JJUN-08 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,2,99.98,24
+GM-TVE-JJUN-09 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-10 , Tvedestrand    ,8,6,15,1, Juvenile ,       ,2,98.551,24
+GM-TVE-JJUN-12 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,99.998,24
+GM-TVE-JJUN-13 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,100,24
+GM-TVE-JJUN-14 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,99.994,24
+GM-TVE-JJUN-15 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,99.997,24
+GM-TVE-JJUN-16 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-17 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,1,100,23
+GM-TVE-JJUN-18 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,1,99.96,24
+GM-TVE-JJUN-19 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,99.816,24
+GM-TVE-JJUN-20 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-21 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,99.999,24
+GM-TVE-JJUN-23 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,100,24
+GM-TVE-JJUN-24 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,99.519,24
+GM-TVE-JJUN-26 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-27 , Tvedestrand    ,8,6,15,2, Juvenile ,       ,2,96.488,24
+GM-TVE-JJUN-28 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,2,99.884,24
+GM-TVE-JJUN-29 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-30 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,2,99.687,24
+GM-TVE-JJUN-31 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-32 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,100,22
+GM-TVE-JJUN-33 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,2,100,24
+GM-TVE-JJUN-34 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,99.321,24
+GM-TVE-JJUN-35 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,2,99.348,24
+GM-TVE-JJUN-36 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,2,99.687,24
+GM-TVE-JJUN-37 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-38 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,100,25
+GM-TVE-JJUN-39 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JJUN-40 , Tvedestrand    ,8,6,15,3, Juvenile ,       ,1,99.985,24
+GM-TVE-JJUN-41 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,2,99.997,24
+GM-TVE-JJUN-42 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,2,100,24
+GM-TVE-JJUN-43 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,2,100,24
+GM-TVE-JJUN-44 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,2,100,23
+GM-TVE-JJUN-45 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,1,99.849,22
+GM-TVE-JJUN-46 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,2,99.873,24
+GM-TVE-JJUN-47 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,1,54.288,24
+GM-TVE-JJUN-48 , Tvedestrand    ,8,6,15,4, Juvenile ,       ,2,99.999,24
+GM-TVE-JJUN-49 , Tvedestrand    ,8,6,15,5, Juvenile ,       ,2,51.744,24
+GM-TVE-JJUN-50 , Tvedestrand    ,8,6,15,5, Juvenile ,       ,2,94.668,24
+GM-TVE-JJUN-51 , Tvedestrand    ,8,6,15,5, Juvenile ,       ,2,100,24
+GM-TVE-JJUN-53 , Tvedestrand    ,8,6,15,5, Juvenile ,       ,2,100,24
+GM-TVE-JJUN-54 , Tvedestrand    ,8,6,15,5, Juvenile ,       ,2,99.847,24
+GM-TVE-JOKT-01 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,56.809,24
+GM-TVE-JOKT-02 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,2,99.957,24
+GM-TVE-JOKT-03 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-04 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,99.996,23
+GM-TVE-JOKT-05 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-06 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,99.999,24
+GM-TVE-JOKT-07 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,99.993,24
+GM-TVE-JOKT-08 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-09 , Tvedestrand    ,12,10,15,1, Juvenile ,       ,1,99.976,23
+GM-TVE-JOKT-10 , Tvedestrand    ,12,10,15,2, Juvenile ,       ,1,93.485,24
+GM-TVE-JOKT-11 , Tvedestrand    ,12,10,15,2, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-12 , Tvedestrand    ,12,10,15,2, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-13 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-14 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,2,99.768,23
+GM-TVE-JOKT-15 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-16 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-17 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,99.999,24
+GM-TVE-JOKT-18 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-19 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,22
+GM-TVE-JOKT-20 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-21 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,99.998,24
+GM-TVE-JOKT-22 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-23 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,99.967,23
+GM-TVE-JOKT-24 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,100,24
+GM-TVE-JOKT-25 , Tvedestrand    ,12,10,15,3, Juvenile ,       ,1,99.891,24
